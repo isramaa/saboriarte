@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="prefs_file">com.example.firebase.PREFERENCE_FILE_KEY</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="tvLogin">Hola!</string>
+    <string name="strEmail">Correo electronico</string>
+    <string name="strPass">Contraseña</string>
+    <string name="strBtLogin">Entrar</string>
+    <string name="Informes">string/home_info</string>
+    <string name="home_info">Informes</string>
+    <string name="home_products">Productos</string>
+    <string name="home_users">Usuarios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_name">Nombre(s)</string>
+    <string name="add_last_name">Apellidos</string>
+    <string name="add_email">Correo eléctronico</string>
+    <string name="add_phone">Número de telefono</string>
+    <string name="add_pass">Contraseña</string>
+    <string name="save">Guardar</string>s
+</resources>

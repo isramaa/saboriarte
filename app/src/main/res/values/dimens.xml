@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="padding_min">8dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+    <dimen name="card_height">200dp</dimen>
+    <dimen name="padding_extra_large">48dp</dimen>
+</resources>
